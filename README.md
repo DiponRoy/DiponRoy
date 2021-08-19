@@ -27,6 +27,10 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1555309685" alt="sql" width="40" height="40" /> </a> 
 </p>
 
+<p align="left">
+    <a href="https://nunit.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" alt="nunit" width="40" height="40" /> </a>
+    <a href="https://github.com/SeleniumHQ/" target="_blank"> <img src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="selenium" width="40" height="40" /> </a>
+</p>
 
 <p align="left">
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png" alt="microsoftsqlserver" width="40" height="40" /></a>
@@ -38,7 +42,13 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40" /> </a>
-    <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" /></a>
+    <a href="https://docs.microsoft.com/en-us/ef/" target="_blank"><img src="https://lh3.googleusercontent.com/proxy/PUlQNliKcGeJgAlV7_FfoVY22ZEMO_DADie9eU9VQTldoAhL6axiQ2C6k1dgTfTE1RXP4FTSbhUuCThqoyejc56GiYirv8m_-9-l0Z7l0UlI7kFqWt_W0t-qdswRr8NM0A" alt="entityframework" width="40" height="40" /></a>
+</p>
+
+
+<p align="left">
+    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" /> </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /> </a>
 </p>
 
 
@@ -79,4 +89,8 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="left">
+    <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" /> </a>
+    <a href="https://datalust.co/seq" target="_blank"> <img src="https://datalust.co/img/seq-logo-dark.svg" alt="seq" width="40" height="40" /> </a>
+</p>
 
