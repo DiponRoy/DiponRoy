@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 
 ## Me
 <p align="left">
-    <a href="https://www.linkedin.com/in/dipon-roy-2049938b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
-    <a href="https://stackoverflow.com/users/2948523" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="30" /></a>
-    <a href="https://www.codeproject.com/Members/diponroy" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/codeproject-512.png" alt="codeproject" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/dipon-roy-2049938b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+    <a href="https://stackoverflow.com/users/2948523" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
+    <a href="https://www.codeproject.com/Members/diponroy" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/codeproject-512.png" alt="codeproject" height="40" width="40" /></a>
+</p>
+
+<p align="left">   
+   <a href="https://github.com/DiponRoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" /> </a>
+    <a href="https://gitlab.com/diponroy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" /> </a>
+    <a href="https://bitbucket.org/diponroy/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40" /></a>
 </p>
 
 ## Skills
