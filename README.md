@@ -24,11 +24,12 @@ Here are some ideas to get you started:
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1555309685" alt="sql" width="40" height="40" /> </a> 
 </p>
 
 
 <p align="left">
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="40" height="40" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png" alt="microsoftsqlserver" width="40" height="40" /></a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
     <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>   
